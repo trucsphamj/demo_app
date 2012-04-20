@@ -1,6 +1,19 @@
 DemoApp::Application.routes.draw do
+<<<<<<< HEAD
   resources :users
     
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  resources :microposts
+
+  resources :users
+
+>>>>>>> 94d7c36563db0f38cf94d893c81bb413ed08e07e
+>>>>>>> 4f00635a76f82ef17d5671f1c412adeb178e4054
+>>>>>>> be7860a8939243b5ff184187d780c0a6f31ef59a
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
@@ -50,7 +63,11 @@ DemoApp::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
+<<<<<<< HEAD
    root :to => 'users#index'
+=======
+  # root :to => 'welcome#index'
+>>>>>>> be7860a8939243b5ff184187d780c0a6f31ef59a
 
   # See how all your routes lay out with "rake routes"
 
