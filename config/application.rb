@@ -48,7 +48,11 @@ module DemoApp
     # This will create an empty whitelist of attributes available for mass-assignment for all models
     # in your app. As such, your models will need to explicitly whitelist or blacklist accessible
     # parameters by using an attr_accessible or attr_protected declaration.
+<<<<<<< HEAD
     config.active_record.whitelist_attributes = true
+=======
+    # config.active_record.whitelist_attributes = true
+>>>>>>> 94d7c36563db0f38cf94d893c81bb413ed08e07e
 
     # Enable the asset pipeline
     config.assets.enabled = true
