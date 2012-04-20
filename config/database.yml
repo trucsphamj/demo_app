@@ -5,6 +5,22 @@
 #   gem 'sqlite3'
 development:
   adapter: sqlite3
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  adapter: postgresql
+>>>>>>> 94d7c36563db0f38cf94d893c81bb413ed08e07e
+>>>>>>> 4f00635a76f82ef17d5671f1c412adeb178e4054
+>>>>>>> be7860a8939243b5ff184187d780c0a6f31ef59a
+>>>>>>> ce23e0e95805f7f2e20260d2080b3906e61f609e
+>>>>>>> 6b8e00c81284643e608690780c24b16c3d6b2bdf
   database: db/development.sqlite3
   pool: 5
   timeout: 5000
@@ -14,12 +30,44 @@ development:
 # Do not set this db to the same as development or production.
 test:
   adapter: sqlite3
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  adapter: postgresql
+>>>>>>> 94d7c36563db0f38cf94d893c81bb413ed08e07e
+>>>>>>> 4f00635a76f82ef17d5671f1c412adeb178e4054
+>>>>>>> be7860a8939243b5ff184187d780c0a6f31ef59a
+>>>>>>> ce23e0e95805f7f2e20260d2080b3906e61f609e
+>>>>>>> 6b8e00c81284643e608690780c24b16c3d6b2bdf
   database: db/test.sqlite3
   pool: 5
   timeout: 5000
 
 production:
   adapter: sqlite3
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  adapter: postgresql
+>>>>>>> 94d7c36563db0f38cf94d893c81bb413ed08e07e
+>>>>>>> 4f00635a76f82ef17d5671f1c412adeb178e4054
+>>>>>>> be7860a8939243b5ff184187d780c0a6f31ef59a
+>>>>>>> ce23e0e95805f7f2e20260d2080b3906e61f609e
+>>>>>>> 6b8e00c81284643e608690780c24b16c3d6b2bdf
   database: db/production.sqlite3
   pool: 5
   timeout: 5000
